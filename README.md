@@ -1,6 +1,6 @@
-#README
+# README
 
-##Description
+## Description
 R package to generate binary event matrices for different omics datasets.
 ##Installation
 ```
